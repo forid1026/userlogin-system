@@ -1,7 +1,10 @@
 .App {
   text-align: center;
 }
-
+.userInfo img {
+  width: 20%;
+  height: 50%;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
